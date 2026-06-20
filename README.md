@@ -1,5 +1,5 @@
 # README.md
-<<<<<<< Updated upstream
+
 cursor-setup-portfolio 
 
 **Tools Installed**
