@@ -1,4 +1,5 @@
 # README.md
+<<<<<<< Updated upstream
 cursor-setup-portfolio 
 
 **Tools Installed**
@@ -33,3 +34,7 @@ The Cursor interface was different from the tutorials I found online.
 
 Solution:
 I explored the Editor Window and located the extension marketplace from there.
+=======
+
+cursor-setup-portfolio 
+>>>>>>> Stashed changes
